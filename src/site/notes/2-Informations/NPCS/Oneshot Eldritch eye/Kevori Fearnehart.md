@@ -4,18 +4,7 @@
 
 ![ScoutSister.png|right h-med ws-med](/img/user/Assets/ScoutSister.png)  
 Una scout leale al servizio di Lord Neverember, determinata e disciplinata. Ma ora, spezzata dal lutto per la morte del fratello, Kevori è più che mai decisa a smascherare i cultisti che infestano la città.
-:::hidden
-### Mechanics
-
-- **Alleanza Potenziale**: Kevori può diventare un alleato temporaneo dei personaggi se decidono di indagare sull'assassinio di Delvin. Pur non accompagnandoli attivamente nelle missioni, può fornire informazioni e risorse dalla Hall of Justice.
-    
-- **Missione Assegnata**: Affida ai personaggi l'incarico di scoprire l'identità degli assassini del fratello e di catturare i cultisti vivi, sottolineando che Lord Neverember paga di più per prigionieri piuttosto che cadaveri.
-    
-- **Ricompensa**: Se i personaggi consegnano prigionieri vivi o rivelano dettagli chiave, Kevori li raccomanda a Lord Neverember, migliorando la loro reputazione e ricompensa (a discrezione del DM).
-    
-- **Evoluzione della Storia**: Se i personaggi risolvono il mistero e vendicano Delvin, Kevori può apparire in futuro come informatrice fidata o persino come contatto stabile per missioni nella città.
-    
-:::
+[Contenuto Nascosta, potrebbe essere note del DM o scoperto in futuro]
 ### Storia
 
 Kevori Fearnehart era conosciuta nelle strade di Neverwinter come una scout capace e riservata, sempre all'ombra di suo fratello maggiore Delvin, investigatore più famoso e carismatico. Insieme, servivano Lord Neverember in missioni contro il crimine e, recentemente, contro attività cultiste sospette.
