@@ -61,7 +61,7 @@ Vecna, soddisfatto dell'incontro, **lancia una maledizione su ciascun personaggi
 
 Infine, **Vecna consegna loro una [[3-Mechanics/CLI/items/deck-of-many-things\|Carta]]** e li obbliga a **pescare dal Mazzo delle Meraviglie**:
 
-- [[2-Informations/Players/Nancy(Tatina)\|Nancy(Tatina)]] pesca **[[3-Mechanics/CLI/items/deck-of-many-things#Skull\|Teschio]]** → evoca un **[[avatar-of-death-dmg \| Avatar della morte]]**, rapidamente sconfitto.
+- [[2-Informations/Players/Nancy(Tatina)\|Nancy(Tatina)]] pesca **[[3-Mechanics/CLI/items/deck-of-many-things#Skull\|Teschio]]** → evoca un **[[3-Mechanics/CLI/bestiary/undead/avatar-of-death-dmg\| Avatar della morte]]**, rapidamente sconfitto.
     
 - [[2-Informations/Players/Kenshin di Atami(Pie)\|Kenshin di Atami(Pie)]] pesca **[[3-Mechanics/CLI/items/deck-of-many-things#Ruin\|Rovina]]** → perde tutte le sue ricchezze e beni materiali.
     
