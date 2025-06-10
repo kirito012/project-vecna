@@ -3,5 +3,5 @@
 ---
 
 
-![[ChanelleHallwinter.png \|right h-med ws-med]] Un fantasma dal volto gentile e dai capelli intrecciati, intrappolato nei catacombi senza memoria del suo passato. La sua presenza non è malvagia, ma la sofferenza della sua identità perduta la perseguita. Aiutandola a ricordare il suo nome, Chanelle Hallwinter, diventa una preziosa alleata contro le forze oscure che infestano il luogo.
+![ChanelleHallwinter.png| right h-med ws-med](/img/user/Assets/ChanelleHallwinter.png) Un fantasma dal volto gentile e dai capelli intrecciati, intrappolato nei catacombi senza memoria del suo passato. La sua presenza non è malvagia, ma la sofferenza della sua identità perduta la perseguita. Aiutandola a ricordare il suo nome, Chanelle Hallwinter, diventa una preziosa alleata contro le forze oscure che infestano il luogo.
 [Contenuto Nascosta, potrebbe essere note del DM o scoperto in futuro]

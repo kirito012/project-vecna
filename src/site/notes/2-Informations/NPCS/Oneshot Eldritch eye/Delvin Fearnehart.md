@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/2-informations/npcs/oneshot-eldritch-eye/delvin-fearnehart/","noteIcon":""}
 ---
 
-![ScoutBrother+.png|right h-med ws-med](/img/user/Assets/ScoutBrother+.png)  
+![ScoutBrother+.png| right h-med ws-med](/img/user/Assets/ScoutBrother+.png)  
 Investigatore scaltro al servizio di Lord Neverember, ora cadavere freddo nelle braccia della sorella. La sua morte è il catalizzatore che mette in moto la caccia ai cultisti di Neverwinter.
 [Contenuto Nascosta, potrebbe essere note del DM o scoperto in futuro]
 ### Storia

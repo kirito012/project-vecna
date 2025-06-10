@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/2-informations/npcs/oneshot-eldritch-eye/kevori-fearnehart/","noteIcon":""}
 ---
 
-![ScoutSister.png|right h-med ws-med](/img/user/Assets/ScoutSister.png)  
+![ScoutSister.png| right h-med ws-med](/img/user/Assets/ScoutSister.png)  
 Una scout leale al servizio di Lord Neverember, determinata e disciplinata. Ma ora, spezzata dal lutto per la morte del fratello, Kevori è più che mai decisa a smascherare i cultisti che infestano la città.
 [Contenuto Nascosta, potrebbe essere note del DM o scoperto in futuro]
 ### Storia
