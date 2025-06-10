@@ -16,6 +16,8 @@
 ### Location
 - [[2-Informations/Locations/Neverwinter\|Neverwinter]] - [[0-DM Screen/Maps/Neverwinter Map\| Map]]
 
+![[EyeNeverwinter.png \| right hmed ws-med]]
+
 ## Sessione 1
 
 I personaggi sono stati assunti da [[2-Informations/NPCS/Neverwinter/Lord Neverember\|Lord Neverember]] per pattugliare le strade di [[2-Informations/Locations/Neverwinter\|Neverwinter]] e mantenere l'ordine pubblico. Durante una delle loro ronde, scoprono il corpo senza vita di [[2-Informations/NPCS/Oneshot Eldritch eye/Delvin Fearnehart\|Delvin Fearnehart]], una guardia cittadina scomparsa da giorni mentre indagava su un culto sospetto che si aggirava tra le macerie della faglia di Neverwinter. Poco dopo, la sorella di Delvin, [[2-Informations/NPCS/Oneshot Eldritch eye/Kevori Fearnehart\|Kevori Fearnehart]], arriva sulla scena per cercare di capire cosa sia successo.
