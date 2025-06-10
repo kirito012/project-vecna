@@ -11,7 +11,7 @@
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
-> <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th></tr>
+> <tr class="class-progression"><th class="level">Level</th><th class"pb">PB</th><th class="feature">Features</th></tr>
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
