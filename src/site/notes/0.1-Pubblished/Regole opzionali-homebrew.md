@@ -14,7 +14,7 @@ Quando usi un attacco con arma ravvicinata puoi decidere di cambiare il tuo atta
  - **Spazzata:**
    - Tiro per colpire, danno dell'arma (Es. 2d6 + 4) / 2
    - Effettui un attacco in un arco che copre i tre quadretti direttamente davanti a te. Esegui un tiro per colpire contro ciascun nemico in quell'area. Per ogni nemico la cui Classe Armatura viene superata, infliggi **danno dell’arma / 2**, includendo eventuali modificatori al danno.
- - **Impalamento: **
+ - **Impalamento:**
    - Tiro per colpire, danno dell'arma (Es. 2d6 + 4) / 2
    - Se due nemici si trovano allineati su una linea retta e la tua arma ha una portata sufficiente, puoi tentare di trafiggerli entrambi con un solo attacco. Esegui un unico tiro per colpire: ogni nemico colpito, la cui Classe Armatura viene superata, subisce **danno dell’arma / 2**, comprensivo dei modificatori.
 

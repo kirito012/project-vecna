@@ -8,7 +8,7 @@ _Oggetto magico, raro (richiede sintonia da un Guerriero o Paladino)_
 
 ## _Sete di Sangue_ — Lama dei Segreti Taciuti
 
-[Contenuto Nascosta, potrebbe essere note del DM o scoperto in futuro]
+[Contenuto Nascosto, potrebbe essere note del DM o scoperto in futuro]
 
 Si dice che chi la impugna sia in grado di **estrarre la verità con la forza**, e che la sua lama si affili ulteriormente ogni volta che viene bagnata dal sangue di chi nasconde qualcosa. La spada non conduce la volontà del portatore, ma la **incalza**, amplificandone le emozioni e guidandolo verso ciò che _vuole sapere_, non ciò che dovrebbe sapere.
 Dato il poco controllo di [[2-Informations/Players/Kenshin di Atami(Pie)\|Kenshin di Atami(Pie)]] anni prima essa lo portava ad inseguire e ad amplificare la sua ira e voglia di vendetta.
@@ -27,6 +27,6 @@ Dato il poco controllo di [[2-Informations/Players/Kenshin di Atami(Pie)\|Kenshi
     
 
 ---
-[Contenuto Nascosta, potrebbe essere note del DM o scoperto in futuro]
+[Contenuto Nascosto, potrebbe essere note del DM o scoperto in futuro]
 > [!NOTE]- ⚙️ Evoluzione e narrazione  
-> Sete di Sangue si potenzia solo tramite la scoperta delle note di [Contenuto Nascosta, potrebbe essere note del DM o scoperto in futuro] e portandole ad un fabbro competente(Es. [[2-Informations/NPCS/Neverwinter/Magnus Cuttlescar (Mercante, Fabbro)\|Magnus Cuttlescar (Mercante, Fabbro)]])
+> Sete di Sangue si potenzia solo tramite la scoperta delle note di [Contenuto Nascosto, potrebbe essere note del DM o scoperto in futuro] e portandole ad un fabbro competente(Es. [[2-Informations/NPCS/Neverwinter/Magnus Cuttlescar (Mercante, Fabbro)\|Magnus Cuttlescar (Mercante, Fabbro)]])

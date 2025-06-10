@@ -11,11 +11,11 @@ _Oggetto magico, raro (richiede sintonia da un warlock)_
 
 ![sacchetto.png| right hs-med ws-med](/img/user/Assets/sacchetto.png)_Wondrous Item (maledetto), richiede attunement da parte di una creatura revenant con un patrono non morto_
 
-> _"Contiene più di ciò che vedi. A  [Contenuto Nascosta, potrebbe essere note del DM o scoperto in futuro]
+> _"Contiene più di ciò che vedi. A  [Contenuto Nascosto, potrebbe essere note del DM o scoperto in futuro]
 
 ---
 
 ### **Aspetto**
 
 Un piccolo sacchetto di lino nero, bordato da cuciture in filo d’osso. All’interno, simboli runici scritti con inchiostro che pulsa debolmente alla luce della luna. È leggero come la cenere
-[Contenuto Nascosta, potrebbe essere note del DM o scoperto in futuro]
+[Contenuto Nascosto, potrebbe essere note del DM o scoperto in futuro]

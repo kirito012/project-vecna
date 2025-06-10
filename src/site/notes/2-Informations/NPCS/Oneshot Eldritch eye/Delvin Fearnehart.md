@@ -4,7 +4,7 @@
 
 ![ScoutBrother+.png| right h-med ws-med](/img/user/Assets/ScoutBrother+.png)  
 Investigatore scaltro al servizio di Lord Neverember, ora cadavere freddo nelle braccia della sorella. La sua morte è il catalizzatore che mette in moto la caccia ai cultisti di Neverwinter.
-[Contenuto Nascosta, potrebbe essere note del DM o scoperto in futuro]
+[Contenuto Nascosto, potrebbe essere note del DM o scoperto in futuro]
 ### Storia
 
 Delvin Fearnehart era tutto ciò che Neverwinter potesse desiderare in un investigatore: determinato, carismatico e senza paura di sporcarsi le mani. Quando ricevette l’incarico di infiltrare un sospetto nascondiglio cultista, sapeva di camminare su un filo sottile.

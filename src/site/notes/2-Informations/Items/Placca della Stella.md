@@ -29,7 +29,7 @@ Si dice che chi impugna la **Star** abbia sempre un sentiero da seguire, ma che 
 - Flavour: una scia luminosa e linee astrali si illuminano al colpo.
 
 
-[Contenuto Nascosta, potrebbe essere note del DM o scoperto in futuro]
+[Contenuto Nascosto, potrebbe essere note del DM o scoperto in futuro]
 
 ---
 > [!NOTE]-  ⚠️ Nota importante

@@ -4,7 +4,7 @@
 
 ![ScoutSister.png| right h-med ws-med](/img/user/Assets/ScoutSister.png)  
 Una scout leale al servizio di Lord Neverember, determinata e disciplinata. Ma ora, spezzata dal lutto per la morte del fratello, Kevori è più che mai decisa a smascherare i cultisti che infestano la città.
-[Contenuto Nascosta, potrebbe essere note del DM o scoperto in futuro]
+[Contenuto Nascosto, potrebbe essere note del DM o scoperto in futuro]
 ### Storia
 
 Kevori Fearnehart era conosciuta nelle strade di Neverwinter come una scout capace e riservata, sempre all'ombra di suo fratello maggiore Delvin, investigatore più famoso e carismatico. Insieme, servivano Lord Neverember in missioni contro il crimine e, recentemente, contro attività cultiste sospette.
