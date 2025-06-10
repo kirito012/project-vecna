@@ -29,7 +29,7 @@
 
 ---
 
-> [!NOTE]- [[1-Sessions/Oneshot Eldritch Eye\|Oneshot Eldritch Eye]]
+> [!NOTE]- [[1-Sessions/EldritchEyeSaga/Oneshot Eldritch Eye 1\|Oneshot Eldritch Eye 1]]
 > Ha giocato con lo stesso personaggio alla oneshot al lvl 3 con statistiche
 > 
 > | Strength | Dexterity | Constitution | Intelligence | Wisdom | Charisma |
@@ -47,9 +47,9 @@
 > Ottiene il [[2-Informations/Charms/Charm of the Eldritch Eye\|Charm of the Eldritch Eye]] ed entra nell'Organizzazione di [[2-Informations/Players/Katrin(Ange)\|Katrin(Ange)]]
 
 > [!note]- Description 
-> Kenshin è un paladino e guerriero umano che combatte per vendetta, sta lentamente venendo comsumato dalla sua katana, per il momento mentre ricerca gli assassini della sua famiglia, si è diretto a [[2-Informations/Locations/Neverwinter\|Neverwinter]] dove ha partecipato alla [[1-Sessions/Oneshot Eldritch Eye\|Oneshot Eldritch Eye]].
-> Durante la [[1-Sessions/Oneshot Eldritch Eye\|Oneshot Eldritch Eye]] Kenshin pesca dal [[3-Mechanics/CLI/items/deck-of-many-things\|deck-of-many-things]] la carta della [[3-Mechanics/CLI/items/deck-of-many-things#Ruin\|Rovina]] perdendo ogni sua possessione, dopo aver affrontato il Culto di [[greyhawk-vecna \| Vecna]] convinto che il culto possa centrare con l'assassinio dei suoi genitori e con il bisogni di soldi per vivere, entra a far parte come recluta dell'organizzazione di [[2-Informations/Players/Katrin(Ange)\|Katrin(Ange)]].
-> Nei 5 anni dopo la [[1-Sessions/Oneshot Eldritch Eye\|Oneshot Eldritch Eye]] e prima della campagna, Kenshin entra a far parte della sezione di assalto dell'organizzazione di [[2-Informations/Players/Katrin(Ange)\|Katrin(Ange)]]
+> Kenshin è un paladino e guerriero umano che combatte per vendetta, sta lentamente venendo comsumato dalla sua katana, per il momento mentre ricerca gli assassini della sua famiglia, si è diretto a [[2-Informations/Locations/Neverwinter\|Neverwinter]] dove ha partecipato alla [[1-Sessions/EldritchEyeSaga/Oneshot Eldritch Eye 1\|Oneshot Eldritch Eye 1]].
+> Durante la [[1-Sessions/EldritchEyeSaga/Oneshot Eldritch Eye 1\|Oneshot Eldritch Eye 1]] Kenshin pesca dal [[3-Mechanics/CLI/items/deck-of-many-things\|deck-of-many-things]] la carta della [[3-Mechanics/CLI/items/deck-of-many-things#Ruin\|Rovina]] perdendo ogni sua possessione, dopo aver affrontato il Culto di [[greyhawk-vecna \| Vecna]] convinto che il culto possa centrare con l'assassinio dei suoi genitori e con il bisogni di soldi per vivere, entra a far parte come recluta dell'organizzazione di [[2-Informations/Players/Katrin(Ange)\|Katrin(Ange)]].
+> Nei 5 anni dopo la [[1-Sessions/EldritchEyeSaga/Oneshot Eldritch Eye 1\|Oneshot Eldritch Eye 1]] e prima della campagna, Kenshin entra a far parte della sezione di assalto dell'organizzazione di [[2-Informations/Players/Katrin(Ange)\|Katrin(Ange)]]
 > Gli rimangono 2 utilizzi del [[2-Informations/Charms/Charm of the Eldritch Eye\|Charm of the Eldritch Eye]] dopo i 5 anni
 
 > [!NOTE]- Backstory

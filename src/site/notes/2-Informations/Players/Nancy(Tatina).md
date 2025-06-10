@@ -29,7 +29,7 @@
 
 ---
 
-> [!NOTE]- [[1-Sessions/Oneshot Eldritch Eye\|Oneshot Eldritch Eye]]
+> [!NOTE]- [[1-Sessions/EldritchEyeSaga/Oneshot Eldritch Eye 1\|Oneshot Eldritch Eye 1]]
 > Ha giocato con lo stesso personaggio alla oneshot al lvl 3 con statistiche
 > 
 > | Strength | Dexterity | Constitution | Intelligence | Wisdom | Charisma |
@@ -48,7 +48,7 @@
 
 > [!NOTE]- Description
 > Nancy è una mezza fata o anche detto feyblood venuta a [[2-Informations/Locations/Neverwinter\|Neverwinter]] per scoprire informazioni su suo padre dopo aver vissuto tutta la sua vita  nel regno fatato, di solito non mostra la sua forma da fata e si camuffa magicamente per evitare di essere notata troppo.
-> è molto giovane e si spaventa facilmente però è sempre pronta ad aiutare i suoi compagni, ha partecipato alla [[1-Sessions/Oneshot Eldritch Eye\|Oneshot Eldritch Eye]] dove è stata spaventata a morte dopo aver combattuto il Culto di [[greyhawk-vecna \| Vecna]], per questo dopo essere sopravvissuta si è ritirata dalla professione di avventuriero ed è tornata a vivere nel regno fatato.
+> è molto giovane e si spaventa facilmente però è sempre pronta ad aiutare i suoi compagni, ha partecipato alla [[1-Sessions/EldritchEyeSaga/Oneshot Eldritch Eye 1\|Oneshot Eldritch Eye 1]] dove è stata spaventata a morte dopo aver combattuto il Culto di [[greyhawk-vecna \| Vecna]], per questo dopo essere sopravvissuta si è ritirata dalla professione di avventuriero ed è tornata a vivere nel regno fatato.
 
 > [!NOTE]- Backstory
 > TLDR

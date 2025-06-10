@@ -5,7 +5,9 @@
 > Questa è una lista di regole opzionali per la campagna
 
 #### Pozioni con azione bonus
-è possibile bere pozioni con un azione bonus invece che un'azione
+è possibile bere pozioni con un azione bonus invece che un'azione se usi la tua intera azione il tiro sarà contato come massimo roll
+
+> es. Pozione di cura minore 2d4 + 2, se usi un'azione allora +10 hp se usi un'azione bonus allora tira i dadi
 
 #### Azioni speciali
 Quando usi un attacco con arma ravvicinata puoi decidere di cambiare il tuo attacco con una delle seguenti azioni speciali:
@@ -53,3 +55,9 @@ Una creatura di **taglia Piccola** può usare la propria **azione** per tentare 
 > **Nota:** hai **vantaggio** al tiro di Acrobazia se sei Nascosto o Invisibile.  
 > Hai **svantaggio** se il terreno è difficile o lo spazio dietro il nemico è ristretto.
 
+#### Finale leggendario
+Un giocatore a terra svenuto può scegliere di utilizzare la sua forza vitale per effettuare un ultimo epico turno, alla fine di esso il personaggio muore e non può essere resuscitato in nessun modo, nel momento in cui dichiari la scelta:
+
+> Recuperi tutte le tue risorse come avessi fatto un riposo lungo, hai vantaggio a tutti i tiri e hanno 2 azioni e 2 azioni bonus
+
+Se il combat non finisce dopo l'azione il personaggio torna svenuto senza la possibilità di tirare tiri contro morte, dopo la fine del combat può dire le sue ultime parole prima di morire.
