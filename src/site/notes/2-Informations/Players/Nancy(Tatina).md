@@ -7,7 +7,7 @@
 
 ## Informations
 
-![Nancy.jpg|right hmed ws-med](/img/user/Assets/Nancy.jpg)
+![Nancy.jpg| right hmed ws-med](/img/user/Assets/Nancy.jpg)
 
 | Name  | Class        | Lvl | Race         | height | Gender | Align        | Background |     |
 | ----- | ------------ | --- | ------------ | ------ | ------ | ------------ | ---------- | --- |

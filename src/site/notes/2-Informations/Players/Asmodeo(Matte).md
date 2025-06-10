@@ -6,7 +6,7 @@
 ---
 ## Informations
 
-![AsmodeoPic.jpg|right hmed ws-med](/img/user/Assets/AsmodeoPic.jpg)
+![AsmodeoPic.jpg| right hmed ws-med](/img/user/Assets/AsmodeoPic.jpg)
 
 | Name    | Class       | Lvl | Race     | height | Gender | Align        | Background |     |
 | ------- | ----------- | --- | -------- | ------ | ------ | ------------ | ---------- | --- |

@@ -7,7 +7,7 @@
 
 ## Informations
 
-![Kenshin.jpg|right hs-med ws-med](/img/user/Assets/Kenshin.jpg)
+![Kenshin.jpg| right hs-med ws-med](/img/user/Assets/Kenshin.jpg)
 
 | Name    | Class                                | Lvl | Race      | height | Gender | Align        | Background |     |
 | ------- | ------------------------------------ | --- | --------- | ------ | ------ | ------------ | ---------- | --- |

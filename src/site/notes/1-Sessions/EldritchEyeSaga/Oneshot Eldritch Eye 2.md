@@ -16,7 +16,7 @@
 ### Location
 - [[2-Informations/Locations/Neverwinter\|Neverwinter]] - [[0-DM Screen/Maps/Neverwinter Map\| Map]]
 
-![EyeNeverwinter.png|right hmed ws-med](/img/user/Assets/EyeNeverwinter.png)
+![EyeNeverwinter.png| right hmed ws-med](/img/user/Assets/EyeNeverwinter.png)
 ## Sessione 2
 
 Superata la stanza degli zombie, il gruppo si addentra in un lungo corridoio. Dopo un’attenta ispezione, scoprono la presenza di una **[[3-Mechanics/CLI/traps-hazards/traps-hazards\|trappola da acido]]**. Trovano un modo ingegnoso per attraversarla: [[2-Informations/Players/Nancy(Tatina)\|Nancy(Tatina)]] viene lanciata oltre, mentre [[2-Informations/Players/Kenshin di Atami(Pie)\|Kenshin di Atami(Pie)]] trasporta [[2-Informations/Players/Katrin(Ange)\|Katrin(Ange)]] sul proprio zaino, usandolo come una **tavola da surf** (che finisce inevitabilmente distrutto nel processo).

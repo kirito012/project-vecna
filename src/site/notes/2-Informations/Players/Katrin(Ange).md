@@ -7,7 +7,7 @@
 
 ## Informations
 
-![Kaitlyn.jpg|right hmed ws-med](/img/user/Assets/Kaitlyn.jpg)
+![Kaitlyn.jpg| right hmed ws-med](/img/user/Assets/Kaitlyn.jpg)
 
 | Name | Class | Lvl | Race | height | Gender | Align | Background | 
 | ---- | ----- | --- | ---- | ------ | ------ | ----- | ---------- |
