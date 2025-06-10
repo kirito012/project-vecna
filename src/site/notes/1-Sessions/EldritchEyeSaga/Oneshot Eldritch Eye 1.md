@@ -16,7 +16,7 @@
 ### Location
 - [[2-Informations/Locations/Neverwinter\|Neverwinter]] - [[0-DM Screen/Maps/Neverwinter Map\| Map]]
 
-![[EyeNeverwinter.png \| right hmed ws-med]]
+![EyeNeverwinter.png|right hmed ws-med](/img/user/Assets/EyeNeverwinter.png)
 
 ## Sessione 1
 

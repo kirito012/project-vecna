@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/0-1-pubblished/home-page/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
-![[Banner.jpg \|Banner.jpg ]]
+![Banner.jpg](/img/user/Assets/Banner.jpg)
 
 # Informazioni campagna
 Questa campagna è Masterata da me Berta e si basa sul Modulo Vecna, eve of ruin.
