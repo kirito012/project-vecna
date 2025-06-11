@@ -10,7 +10,7 @@
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
-> <tr class="class-progression"><th class=""level">Level</th><th class=""pb">PB</th><th class="feature">Features</th></tr>
+> <tr class="class-progression"><th class="level">Level</th><th class="pb">PB</th><th class="feature">Features</th></tr>
 > </thead><tbody>
 > <tr class="class-progression"><td class="level">1st</td><td class="pb">+2</td><td class="feature"><a href='#Fighting Style (Level 1)' class='internal-link'>Fighting Style</a>, <a href='#Second Wind (Level 1)' class='internal-link'>Second Wind</a></td></tr>
 > <tr class="class-progression"><td class="level">2nd</td><td class="pb">+2</td><td class="feature"><a href='#Action Surge (Level 2)' class='internal-link'>Action Surge</a></td></tr>
