@@ -12,7 +12,7 @@
 > <tr><th colspan='4'></th></tr>
 > <tr class="class-progression"><th class="level">Level</th><th class="pb">PB</th><th class="feature">Features</th><th class="value">Sneak Attack</th></tr>
 > </thead><tbody>
-> <tr class="class-progression"><td class="level">1st</td><td class="pb">+2</td><td class="feature"><a href='#Expertise (Level 1)' class='internal-link'>Expertise</a>, <a href='#Sneak Attack (Level 1)' class='internal-link'>Sneak Attack</a>, <a href='#Thieves' Cant (Level 1)' class='internal-link'>Thieves' Cant</a></td><td class="value">1d6</td></tr>
+> <tr class="class-progression"><td class="level">1st</td><td class="pb">+2</td><td class="feature"><a href='#Expertise (Level 1)' class='internal-link'>Expertise</a>, <a href='#Sneak Attack (Level 1)' class='internal-link'>Sneak Attack</a>, <a href="#Thieves' Cant (Level 1)" class='internal-link'>Thieves' Cant</a></td><td class="value">1d6</td></tr>
 > <tr class="class-progression"><td class="level">2nd</td><td class="pb">+2</td><td class="feature"><a href='#Cunning Action (Level 2)' class='internal-link'>Cunning Action</a></td><td class="value">1d6</td></tr>
 > <tr class="class-progression"><td class="level">3rd</td><td class="pb">+2</td><td class="feature"><a href='#Roguish Archetype (Level 3)' class='internal-link'>Roguish Archetype</a>, <a href='#Steady Aim (Level 3)' class='internal-link'>Steady Aim</a></td><td class="value">2d6</td></tr>
 > <tr class="class-progression"><td class="level">4th</td><td class="pb">+2</td><td class="feature"><a href='#Ability Score Improvement (Level 4)' class='internal-link'>Ability Score Improvement</a></td><td class="value">2d6</td></tr>
