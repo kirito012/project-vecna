@@ -15,4 +15,4 @@ Una volta per turno, **quando colpisci una creatura con un attacco con un'arma o
 - Ottieni **5 [[3-Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb\|Punti Ferita Temporanei]]**
     
 
-Puoi usare questo effetto **fino a 5 volte**. Una volta esauriti tutti gli utilizzi, il **charm scompare**, lasciando solo una leggera cicatrice.
+> Puoi usare questo effetto **fino a 5 volte**. Una volta esauriti tutti gli utilizzi, il **charm scompare**, lasciando solo una leggera cicatrice.

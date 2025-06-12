@@ -10,4 +10,4 @@ Consumabile magico, raro_
 **Effetto:**  
 Puoi **lanciare [[3-Mechanics/CLI/spells/clairvoyance\|Chiaroveggenza]] come azione**, **senza consumare uno slot incantesimo né componenti materiali**.
 
-Puoi utilizzare questo effetto **fino a 3 volte**. Una volta esauriti gli usi, il **charme svanisce**, lasciando dietro di sé una sensazione di vuoto percettivo.
+> Puoi utilizzare questo effetto **fino a 3 volte**. Una volta esauriti gli usi, il **charme svanisce**, lasciando dietro di sé una sensazione di vuoto percettivo.
