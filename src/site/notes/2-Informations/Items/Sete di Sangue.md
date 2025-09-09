@@ -8,6 +8,9 @@ _Oggetto magico, raro (richiede sintonia da un Guerriero o Paladino)_
 
 ## _Sete di Sangue_ — Lama dei Segreti Taciuti
 
+![setedisangue.png](/img/user/Assets/setedisangue.png)
+> Design temporaneo da chiedere a Pie
+
 [Contenuto Nascosto, potrebbe essere note del DM o scoperto in futuro]
 
 Si dice che chi la impugna sia in grado di **estrarre la verità con la forza**, e che la sua lama si affili ulteriormente ogni volta che viene bagnata dal sangue di chi nasconde qualcosa. La spada non conduce la volontà del portatore, ma la **incalza**, amplificandone le emozioni e guidandolo verso ciò che _vuole sapere_, non ciò che dovrebbe sapere.

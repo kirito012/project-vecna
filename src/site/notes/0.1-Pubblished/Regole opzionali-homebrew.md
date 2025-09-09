@@ -22,7 +22,7 @@ Quando usi un attacco con arma ravvicinata puoi decidere di cambiare il tuo atta
 
 #### Spinta da danno eccessivo
 Se un personaggio subisce, in un singolo colpo, danni pari o superiori al **20% dei suoi PF massimi**, viene spinto di **6 metri** in una direzione a scelta dell'attaccante.  
-Come **azione gratuita**, il personaggio colpito può spendere **3 metri del proprio movimento** per seguire il nemico nella nuova posizione (utile in caso di corpo a corpo).
+Come **azione gratuita**, l'attaccante può spendere **3 metri del proprio movimento** per seguire il nemico nella nuova posizione (utile in caso di corpo a corpo).
 
 > - Un nemico di taglia media o piccola viene spinto senza possibilità di tiri salvezza
 > 
@@ -58,6 +58,6 @@ Una creatura di **taglia Piccola** può usare la propria **azione** per tentare 
 #### Finale leggendario
 Un giocatore a terra svenuto può scegliere di utilizzare la sua forza vitale per effettuare un ultimo epico turno, alla fine di esso il personaggio muore e non può essere resuscitato in nessun modo, nel momento in cui dichiari la scelta:
 
-> Recuperi tutte le tue risorse come avessi fatto un riposo lungo, hai vantaggio a tutti i tiri e hanno 2 azioni e 2 azioni bonus
+> Recuperi tutte le tue risorse come avessi fatto un riposo lungo, hai vantaggio a tutti i tiri e si hanno 2 azioni e 2 azioni bonus
 
 Se il combat non finisce dopo l'azione il personaggio torna svenuto senza la possibilità di tirare tiri contro morte, dopo la fine del combat può dire le sue ultime parole prima di morire.

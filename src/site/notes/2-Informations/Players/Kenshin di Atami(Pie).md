@@ -11,21 +11,21 @@
 
 | Name    | Class                                | Lvl | Race      | height | Gender | Align        | Background |     |
 | ------- | ------------------------------------ | --- | --------- | ------ | ------ | ------------ | ---------- | --- |
-| Kenshin | [[3-Mechanics/CLI/classes/fighter\|fighter]] lvl 1, [[3-Mechanics/CLI/classes/paladin\|paladin]] lvl 2 | 3   | [[3-Mechanics/CLI/races/human\|human]] | 1.85m  | Male   | Chaotic Good | Pescatore  |     |
+| Kenshin | [[3-Mechanics/CLI/classes/fighter\|fighter]] lvl 4, [[3-Mechanics/CLI/classes/paladin\|paladin]] lvl 5 | 9   | [[3-Mechanics/CLI/races/human\|human]] | 1.85m  | Male   | Chaotic Good | Pescatore  |     |
 
 
 ## Stats
 | Strength | Dexterity | Constitution | Intelligence | Wisdom | Charisma |
 | -------- | --------- | ------------ | ------------ | ------ | -------- |
-| 18(+4)    | 9(-1)    | 16(+3)       | 9(-1)       | 10(+0) | 13(+1)   |
+| 18(+4)   | 9(-1)     | 16(+3)       | 9(-1)        | 10(+0) | 14(+2)   |
 
-| Max HP | HP  | Hit die | 
-| ------ | --- | ------- |
-|    35  | 35  | 3d10    |
+| Max HP | HP  | Hit die |     |
+| ------ | --- | ------- | --- |
+| 95     | 95  | 9d10    |     |
 
-| AC  | Initiative | Spd | Size |
-| ---- | ----- | --- | ---- |
-|  17  |  -1  |  9 m  |  Medium  |
+| AC  | Initiative | Spd | Size   |
+| --- | ---------- | --- | ------ |
+| 20  | -1         | 9 m | Medium |
 
 ---
 
@@ -51,6 +51,7 @@
 > Durante la [[1-Sessions/EldritchEyeSaga/Oneshot Eldritch Eye 1\|Oneshot Eldritch Eye 1]] Kenshin pesca dal [[3-Mechanics/CLI/items/deck-of-many-things\|deck-of-many-things]] la carta della [[3-Mechanics/CLI/items/deck-of-many-things#Ruin\|Rovina]] perdendo ogni sua possessione, dopo aver affrontato il Culto di [[greyhawk-vecna \| Vecna]] convinto che il culto possa centrare con l'assassinio dei suoi genitori e con il bisogni di soldi per vivere, entra a far parte come recluta dell'organizzazione di [[2-Informations/Players/Katrin(Ange)\|Katrin(Ange)]].
 > Nei 5 anni dopo la [[1-Sessions/EldritchEyeSaga/Oneshot Eldritch Eye 1\|Oneshot Eldritch Eye 1]] e prima della campagna, Kenshin entra a far parte della sezione di assalto dell'organizzazione di [[2-Informations/Players/Katrin(Ange)\|Katrin(Ange)]]
 > Gli rimangono 2 utilizzi del [[2-Informations/Charms/Charm of the Eldritch Eye\|Charm of the Eldritch Eye]] dopo i 5 anni
+> La prima carica è stata utilizzata per scoprire alcune informazioni a lui celate da [[2-Informations/Organization/L'agenzia\|L'agenzia]], dove sembra che siano stato loro a distruggere il suo villaggio.
 
 > [!NOTE]- Backstory
 > Kenshin era un giovane pescatore del villaggio costiero di Atami, tranquillo e amante della natura. La sua vita cambia drasticamente quando una banda di briganti attacca il suo villaggio, saccheggiando e incendiando tutto. Kenshin riesce a scappare, ma assiste alla distruzione della sua casa e alla morte dei suoi cari. Tra le rovine, trova due katane: una leggera e affilata, che chiama "Vento Oscuro", e un'altra più pesante e macchiata di sangue, che chiama "Sete di Sangue".

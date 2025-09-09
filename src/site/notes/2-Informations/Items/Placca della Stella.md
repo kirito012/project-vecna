@@ -8,6 +8,8 @@ _Oggetto magico, raro (richiede sintonia da un ladro Soulknife)_
 
 ## Carta Star — Lore e Significato
 
+![Star.png](/img/user/Assets/Star.png)
+
 La **Star** è un simbolo di speranza, fortuna e guida luminosa nelle tenebre. Quando Katrin ha pescato questa carta dal _Deck of Many Things_, ha ricevuto non solo un dono, ma anche una responsabilità: portare con sé la luce in un mondo oscuro, rischiando però di attirare attenzioni indesiderate.
 
 La carta è stata placcata in metallo da Magnus, che l'ha trasformata in un’arma affilata e preziosa, capace di tagliare sia la carne sia le ombre. Non è solo uno strumento di combattimento, ma anche un talismano che riflette la volontà e la determinazione di Katrin di andare avanti nonostante la maledizione e le difficoltà.
