@@ -30,13 +30,9 @@ Chi indossa il **Mycohand** ha la sensazione di non combattere mai da solo.
 - Compatibile con ogni attacco nel range di mischia
     
 
-[Contenuto Nascosto, potrebbe essere note del DM o scoperto in futuro]hidden
-> Dadi usati per ora: 0
+[Contenuto Nascosto, potrebbe essere note del DM o scoperto in futuro]
+
+> [!NOTE]- ⚠️ Nota Importante  
+> I potenziamenti si sbloccano solo dopo aver infuso, durante un riposo lungo, un po' della propria essenza vitale (Dadi vita).
 > 
-> | Livello | Upgrade                 | Dadi Vita richiesti totali per sblocco (riposo lungo) |
-> |---------|-------------------------|-----------------------------------------------|
-> | 9       | Spinta Micotica         |           ✅                                            |
-> | 11      | Simbiosi Difensiva      | 10 dadi vita                                      |
-> | 14      | Crescita Interna        | 25 dadi vita                                       |
-> | 17      | Radici della Resilienza | 40 dadi vita                                    |
-> | 20      | Micelio Cosmico         | 60 dadi vita                                     |
+[Contenuto Nascosto, potrebbe essere note del DM o scoperto in futuro]
