@@ -29,12 +29,12 @@ Vengono entrambi informati del presentimento del Lord, e dopo una bella somma di
 > _"Dovrete trovare il colpevole e portarmelo di fronte, vivo se possibile, dobbiamo ottenere più informazioni possibili."_
 
 ![ManoCultoVecna.jpg| right hs-med ws-med](/img/user/Assets/ManoCultoVecna.jpg)Dopo un paio di giorni di indagini, [[2-Informations/Players/Katrin(Ange)\|Katrin(Ange)]] riesce a sorprendere un rapitore in azione. Scoperto, il criminale si taglia di colpo la mano sinistra con un coltello dall'aspetto sinistro e muore sul colpo. Poco dopo, sia la mano che l’arma scompaiono misteriosamente, come dissolti nel nulla. Grazie al suo occhio acuto [[2-Informations/Players/Katrin(Ange)\|Katrin(Ange)]] riesce a vedere un simbolo sulla mano tagliata, lo riconosce e capisce subito essere un tatuaggio dei cultisti di [[greyhawk-vecna \| Vecna]], molto simile al suo [[2-Informations/Charms/Charm of the Creeping Hand\|Charm of the Creeping Hand]] ancora presente sul suo avambraccio sinistro.
-Esattamente come sospettava, il culto di [[greyhawk-vecna \| Vecna]] è tornato in azione e sta volta sembra più preparato.
+Esattamente come sospettava, il culto di [[greyhawk-vecna \| Vecna]] è tornato in azione e stavolta sembra più preparato.
 
 > [!cite] 
 > _"Katrin si tocca il Charm, che pulsa di dolore. Per la prima volta dopo anni, sente Vecna ridere nella sua mente."_
 
-In quel momento [[2-Informations/Players/Kenshin di Atami(Pie)\|Kenshin di Atami(Pie)]] prova un dolore lancinante all'occhio, cade sulle sue ginocchia e inizia a vedere delle visioni:
+In quel momento [[2-Informations/Players/Kenshin di Atami(Pie)\|Kenshin di Atami(Pie)]] prova un dolore lancinante all'occhio, cade sulle sue ginocchia e inizia ad avere delle visioni:
 
 - Lava
 - Un martello che colpisce del ferro con delle rune incise sopra

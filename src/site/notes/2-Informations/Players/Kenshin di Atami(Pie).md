@@ -58,3 +58,5 @@
 >Queste armi non sono magiche, ma sono ben costruite e gli danno un vantaggio. "Vento Oscuro", grazie alla sua leggerezza, gli permette una grande velocità e agilità. "Sete di Sangue", più pesante, gli fornisce potenza nei colpi.
 >Tuttavia, "Sete di Sangue" è maledetta. Più Kenshin subisce ferite, più la lama diventa potente, amplificando la sua forza e la sua sete di combattimento. Ma questa maledizione ha un costo: rischia di corrompere la sua anima, alimentando la rabbia e il desiderio di vendetta.
 >Guidato dalla vendetta, Kenshin inizia ad allenarsi.Incontra un vecchio maestro di spada che gli insegna le basi del combattimento e a controllare la sua rabbia. La sua strada è ancora lunga, ma Kenshin è determinato a vendicare la sua famiglia e a proteggere gli altri dalle violenze dei briganti. La sua avventura è appena iniziata, e dovrà lottare non solo contro i suoi nemici, ma anche contro la maledizione che risiede nella sua spada.
+
+[Contenuto Nascosto, potrebbe essere note del DM o scoperto in futuro]
