@@ -169,8 +169,8 @@ Per dimostrare la sua forza, **spacca letteralmente la pietra del pavimento** co
 [[2-Informations/Players/Katrin(Ange)\|Katrin(Ange)]], rimanendo nella stanza, **sente involontariamente** alcune parole chiave pronunciate da Noblin durante i suoi vaneggiamenti:
 
 - **"Vampiro"**
-- **"[[greyhawk-vecna \| Vecna]]"** 
-- **"[[kas-the-betrayer-veor \| Kas]]"**
+- **"[[3-Mechanics/CLI/deities/greyhawk-vecna\|Vecna]]"** 
+- **"[[3-Mechanics/CLI/bestiary/npc/kas-the-betrayer-veor\|Kas]]"**
 
 ### **L'Interrogatorio Forzoso**
 

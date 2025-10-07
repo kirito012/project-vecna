@@ -33,7 +33,7 @@ I tre vengono accolti dal [[2-Informations/NPCS/Neverwinter/Ysacc Armanacci Magg
 Entrati nella maestosa sala del trono, i tre avventurieri si trovano circondati da guardie in assetto di guerra. Di fronte a loro, sul trono, siede [[2-Informations/NPCS/Neverwinter/Lord Neverember\|Lord Neverember]], mentre alla sua destra si trova [[2-Informations/Players/Sedda(Andrea)\|Sedda(Andrea)]], il quale porta con sé tutti i suoi appunti raccolti negli anni di ricerche sui cultisti.
 
 Durante questo cruciale incontro avviene:
-- **Lo scambio di informazioni** sui rapimenti e sui cultisti di [[greyhawk-vecna \| Vecna]]
+- **Lo scambio di informazioni** sui rapimenti e sui cultisti di [[3-Mechanics/CLI/deities/greyhawk-vecna\|Vecna]]
 - **Le presentazioni formali** tra i personaggi e [[2-Informations/Players/Sedda(Andrea)\|Sedda(Andrea)]]
 - **La rivelazione shock** che il cavallo di [[2-Informations/Players/Kenshin di Atami(Pie)\|Kenshin di Atami(Pie)]] proviene direttamente dallo **Shadowfell**
 
@@ -255,7 +255,7 @@ Il mago catturato rivela che **più in basso si trova una base del culto** dove 
 
 Dopo aver messo in sicurezza la forgia e raccolto tutte le prove possibili, gli avventurieri decidono di **concedersi un breve riposo** per recuperare le forze.
 
-Si preparano mentalmente e fisicamente per **scendere ancora più in profondità** nelle viscere della terra, dove li attende la **base del culto di [[greyhawk-vecna \| Vecna]]** e i misteri che circondano i nobili rapiti.
+Si preparano mentalmente e fisicamente per **scendere ancora più in profondità** nelle viscere della terra, dove li attende la **base del culto di [[3-Mechanics/CLI/deities/greyhawk-vecna\|Vecna]]** e i misteri che circondano i nobili rapiti.
 
 ## **La Discesa nella Base del Culto**
 
@@ -277,7 +277,7 @@ Il gruppo si ritrova in una **stanza molto grande** con un'architettura compless
 - **Diversi corridoi** che si diramano sia a destra che a sinistra
 - **Multiple stanze laterali** di scopo sconosciuto
 - **Una scalinata imponente** che porta a livelli superiori
-- **Una porta decorata** con un **Occhio dipinto sopra** - chiaramente simbolico di [[greyhawk-vecna \| Vecna]]
+- **Una porta decorata** con un **Occhio dipinto sopra** - chiaramente simbolico di [[3-Mechanics/CLI/deities/greyhawk-vecna\|Vecna]]
 
 ### **Le Esplorazioni di Katrin**
 
@@ -299,7 +299,7 @@ Il gruppo si ritrova in una **stanza molto grande** con un'architettura compless
 ### **Il Corridoio Crollato e l'Elementale**
 
 [[2-Informations/Players/Katrin(Ange)\|Katrin(Ange)]] si sposta nel **corridoio mezzo crollato** sulla sinistra. Sporgendosi cautamente oltre i detriti, scorge:
-- Un [[water-elemental \| Elementale dell'Acqua ]]di dimensioni considerevoli
+- Un [[3-Mechanics/CLI/bestiary/elemental/water-elemental\|Elementale dell'Acqua ]]di dimensioni considerevoli
 - [[water-weird \| Fatali del''Acqua]] che sguazzano in una fontana 
 - L'ambiente palesemente ostile la convince a **ritirarsi immediatamente**
 
@@ -371,8 +371,8 @@ Aprendo una seconda porta, [[2-Informations/Players/Kenshin di Atami(Pie)\|Kensh
 
 Il cultista di alto rango si identifica come uno dei **"Denti di [[greyhawk-vecna \| Vecna]]"** e si riferisce ai cultisti di grado inferiore come **"Ricordi di [[greyhawk-vecna \| Vecna]]"**, rivelando la struttura gerarchica dell'organizzazione:
 
-- **Denti di [[greyhawk-vecna \| Vecna]]**: Cultisti di alto rango
-- **Ricordi di [[greyhawk-vecna \| Vecna]]**: Membri di grado inferiore
+- **Denti di [[3-Mechanics/CLI/deities/greyhawk-vecna\|Vecna]]**: Cultisti di alto rango
+- **Ricordi di [[3-Mechanics/CLI/deities/greyhawk-vecna\|Vecna]]**: Membri di grado inferiore
 
 ### **L'Inganno Continua**
 
@@ -385,7 +385,7 @@ Il cultista, soddisfatto del rapporto, manda [[2-Informations/Players/Kenshin di
 
 ### **La Sala da Notte e le Tensioni Interne**
 
-Nella sala da notte, [[2-Informations/Players/Kenshin di Atami(Pie)\|Kenshin di Atami(Pie)]] incontra **altri 2 Denti di [[greyhawk-vecna \| Vecna]]** che si lamentano immediatamente:
+Nella sala da notte, [[2-Informations/Players/Kenshin di Atami(Pie)\|Kenshin di Atami(Pie)]] incontra **altri 2 Denti di [[3-Mechanics/CLI/deities/greyhawk-vecna\|Vecna]]** che si lamentano immediatamente:
 
 > [!cite] Cultisti nella Sala da Notte
 > _"Quel Oxtu se la crede un po' troppo... sempre a darsi arie da comandante supremo..."_
@@ -402,7 +402,7 @@ I cultisti si preparano ad andare a **catturare gli avventurieri** che "Eryndor"
 
 Appena i **Ricordi di [[greyhawk-vecna \| Vecna]]** entrano nella grande camera, l'imboscata scatta perfettamente:
 - I cultisti **corrono giù per le scale** verso [[2-Informations/Players/Sedda(Andrea)\|Sedda(Andrea)]], l'unico personaggio visibile al centro della stanza
-- **[[2-Informations/Players/Katrin(Ange)\|Katrin(Ange)]]** afferra uno dei **Denti di [[greyhawk-vecna \| Vecna]]** per le caviglie e lo **trascina dietro le scale**
+- **[[2-Informations/Players/Katrin(Ange)\|Katrin(Ange)]]** afferra uno dei **Denti di [[3-Mechanics/CLI/deities/greyhawk-vecna\|Vecna]]** per le caviglie e lo **trascina dietro le scale**
 - **[[2-Informations/Players/Kenshin di Atami(Pie)\|Kenshin di Atami(Pie)]]** **uccide a tradimento** uno dei Denti alle spalle
 
 ### **L'Escalation del Combattimento**
