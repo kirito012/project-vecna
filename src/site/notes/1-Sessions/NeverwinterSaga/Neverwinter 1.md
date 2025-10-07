@@ -2,6 +2,17 @@
 {"dg-publish":true,"permalink":"/1-sessions/neverwinter-saga/neverwinter-1/","noteIcon":""}
 ---
 
+### Personaggi
+- [[2-Informations/Players/Katrin(Ange)\|Katrin(Ange)]]
+- [[2-Informations/Players/Asmodeo(Matte)\|Asmodeo(Matte)]]
+- [[2-Informations/Players/Kenshin di Atami(Pie)\|Kenshin di Atami(Pie)]]
+- [[2-Informations/Players/Sedda(Andrea)\|Sedda(Andrea)]]
+
+### Location
+- [[2-Informations/Locations/Neverwinter\|Neverwinter]] - [[0-DM Screen/Maps/Neverwinter Map\| Map]]
+- [[2-Informations/Locations/Neverwinter - Cimitero di Neverdeath\|Neverwinter - Cimitero di Neverdeath]]
+- [[2-Informations/Locations/Neverwinter - Hallix Forge\|Neverwinter - Hallix Forge]]
+
 # Prima Sessione - L'Incontro al Castello
 
 ## **L'Incontro alle Porte del Castello**

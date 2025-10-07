@@ -8,6 +8,9 @@ Uno storico gnomo autore di libri su varie divinità
 ---
 
 > [!summary] Dettagli
-> [Contenuto Nascosto, potrebbe essere note del DM o scoperto in futuro]:
+> Gilbert è stato rapito perchè uno dei massimi esponenti sullo studio di [[3-Mechanics/CLI/deities/greyhawk-vecna\| vecna]] e sulla sua storia.
+> Cercherà di nascondere la sua conoscenza per la paura che gli avventurieri siano cultisti a loro volta.
 
-[Contenuto Nascosto, potrebbe essere note del DM o scoperto in futuro]
+
+## Segreti
+- Dopo che inizia a fidarsi un po di più dei personaggi Gilbert racconta della sua ultima scoperta sulla storia di [[greyhawk-vecna \| Vecna]] ovvero del suo antico rivale [[kas-the-betrayer-veor \| Kas ]]

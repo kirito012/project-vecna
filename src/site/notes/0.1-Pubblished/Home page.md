@@ -13,34 +13,22 @@ Utilizzerò questo sito per postare varie informazioni scoperte dai giocatori e 
 
 ### News
 Ultimo update delle note altre informazioni qui [[0.1-Pubblished/Aggiornamenti\|Aggiornamenti]]
-> [!tldr] Update Post Sessione 1 - 30/09/2025
-> - Aggiunto il riassunto della sessione [[1-Sessions/NeverwinterSaga/Neverwinter 1\|Neverwinter 1]]
-> - Aggiunti i vari nobili rapiti
-> - 2 nuovi Handout
-> - 3 personaggi nemici ormai sconfitti
-> - Un overview di quello che gia sapete su [[2-Informations/Organization/Il culto di Vecna\|Il culto di Vecna]]
-> - Aggiunti mutipli NPC conosciuti
+- > [!tldr] Update Post Sessione 2 - 07/10/2025
+> - Aggiunto il riassunto della sessione [[1-Sessions/NeverwinterSaga/Neverwinter 2\|Neverwinter 2]]
+> - Aggiornato [[2-Informations/NPCS/Neverwinter/Nobili Rapiti/Gilbert Noblin\|Gilbert Noblin]]
+> - 1 nuovi Handout
+> - Aggiunto il nostro amato [[2-Informations/Players/Thock(Luke)\|Thock(Luke)]]
+> - Un nuovo oggetto magico scoperto: [[2-Informations/Items/Item minori/Orologio di Mechanus\|Orologio di Mechanus]]
 
 ### Lista dei giocatori
 
-| Giocatore | Personaggio                                  | Razza                               | Classe                                           | Sotto-Classe                                                                            | Stato                     |
-| --------- | -------------------------------------------- | ----------------------------------- | ------------------------------------------------ | --------------------------------------------------------------------------------------- | ------------------------- |
-| Ange      | [[2-Informations/Players/Katrin(Ange)\| Katrin]]                    | [[3-Mechanics/CLI/races/halfling\|Halfling(Piede Lesto)]] | [[3-Mechanics/CLI/classes/rogue\| Ladro]]                                | [[3-Mechanics/CLI/classes/rogue-soulknife-tce\| Soulknife]]                                                     | Vivo                      |
-| Pie       | [[2-Informations/Players/Kenshin di Atami(Pie)\| Kenshin di Atami]] | [[3-Mechanics/CLI/races/human\| Umano(Variante)]]         | [[3-Mechanics/CLI/classes/fighter\| Guerriero]] - [[3-Mechanics/CLI/classes/paladin\| Paladino]] | [[3-Mechanics/CLI/classes/fighter-battle-master\| Maestro di Battaglia]] - [[3-Mechanics/CLI/classes/paladin-oathbreaker\|Oathbreaker]] | Vivo                      |
-| Matte     | [[2-Informations/Players/Asmodeo(Matte)\| Asmodeo Eltan]]           | Reborn(Revenant)                    | [[3-Mechanics/CLI/classes/warlock\| Warlock]]                            | The Undead                                                                              | Vivo                      |
-| Lori      | ?                                            | ?                                   | ?                                                | ?                                                                                       | Vivo                      |
-| Andrea    | [[Sedda(Andrea) \| Sedda Ceppomarcio]]       | [[gnome \| Gnomo delle foreste]]    | [[3-Mechanics/CLI/classes/druid\|druido]]        | Circolo delle Spore                                                                     | Vivo                      |
-| Elisa     | [[2-Informations/Players/Nancy(Tatina)\| Nancy]]                    | Sylphi feyblood                     | [[3-Mechanics/CLI/classes/sorcerer\| Stregone]]                          | Fey Magic                                                                               | Tornata nella seva fatata |
+![[1 - Players Database.base#Players Home]]
 
 
 ### Sessioni recenti
 
-| Sessione                   | Saga         | Data IG    | Data IRL    |
-| -------------------------- | ------------ | ---------- | ----------- |
-| [[1-Sessions/EldritchEyeSaga/Oneshot Eldritch Eye 1\|Oneshot Eldritch Eye 1]] | Eldritch eye | 1489-01-17 | 07/05/2025  |
-| [[1-Sessions/EldritchEyeSaga/Oneshot Eldritch Eye 2\|Oneshot Eldritch Eye 2]] | Eldritch eye | 1489-01-17 | 13/05/2025  |
-| [[1-Sessions/NeverwinterSaga/Neverwinter 1\|Neverwinter 1]]          | Neverwinter  | 1495-04-13 | 11/09/2025  |
-| TBD                        | Neverwinter  | 1495-05-14 | 02/10/2025? |
+![[2 - Sessions Database.base#Sessions Home]]
+
 > [!attention]- Informazioni sul Sito
 > Questo sito è una pubblicazione delle mie Note personali della campagna(Censurate e ovviamente non integrali) quindi se manca qualcosa di importante fatemelo sapere.
 > So che non è esteticamente bellissimo ma questo sono riuscito a pubblicare 

@@ -21,8 +21,9 @@ graph TD
 	Cuore[[Contenuto Nascosto, potrebbe essere note del DM o scoperto in futuro]]
 	Occhio[[Contenuto Nascosto, potrebbe essere note del DM o scoperto in futuro]]
 	Mano[[Contenuto Nascosto, potrebbe essere note del DM o scoperto in futuro]]
+	Pensiero[[Contenuto Nascosto, potrebbe essere note del DM o scoperto in futuro]]
 	Denti[Denti di Vecna]
-	Pensieri[Pensieri di Vecna]
+	Ricordi[Ricordi di Vecna]
 	Dita[[Contenuto Nascosto, potrebbe essere note del DM o scoperto in futuro]]
 	Sangue[[Contenuto Nascosto, potrebbe essere note del DM o scoperto in futuro]]
 	
@@ -32,11 +33,12 @@ graph TD
 	Vecna --> Cuore
 	Cuore --> Occhio
 	Occhio --> Mano
-	Mano --> Denti
-	Denti --> Pensieri
+	Mano --> Pensiero
+	Pensiero --> Denti
+	Denti --> Ricordi
 	Denti --> Dita
 	Denti --> Sangue
-	Pensieri --> Cultisti
+	Ricordi --> Cultisti
 	Dita --> Cultisti
 	Sangue --> Cultisti
 	Cultisti --> Zephralis
@@ -47,15 +49,16 @@ graph TD
 
 ## I Ranghi del Culto
 
-|Rango|Ruolo Principale|Simbolo|Poteri e Responsabilità|
-|---|---|---|---|
-|[Contenuto Nascosto, potrebbe essere note del DM o scoperto in futuro]|[Contenuto Nascosto, potrebbe essere note del DM o scoperto in futuro]|[Contenuto Nascosto, potrebbe essere note del DM o scoperto in futuro]|[Contenuto Nascosto, potrebbe essere note del DM o scoperto in futuro]|
-|[Contenuto Nascosto, potrebbe essere note del DM o scoperto in futuro]|[Contenuto Nascosto, potrebbe essere note del DM o scoperto in futuro]|[Contenuto Nascosto, potrebbe essere note del DM o scoperto in futuro]|[Contenuto Nascosto, potrebbe essere note del DM o scoperto in futuro]|
-|[Contenuto Nascosto, potrebbe essere note del DM o scoperto in futuro]|[Contenuto Nascosto, potrebbe essere note del DM o scoperto in futuro]|[Contenuto Nascosto, potrebbe essere note del DM o scoperto in futuro]|[Contenuto Nascosto, potrebbe essere note del DM o scoperto in futuro]|
-|Denti di Vecna|Maghi e Incantatori|🦷 Zanne|Utilizzatori di magia necrotica e arcana|
-|Pensieri di Vecna|Sacerdoti e Maghi Minori|🧠 Cervello|Guidano le cellule individuali chiamate Organi|
-|[Contenuto Nascosto, potrebbe essere note del DM o scoperto in futuro]|[Contenuto Nascosto, potrebbe essere note del DM o scoperto in futuro]|[Contenuto Nascosto, potrebbe essere note del DM o scoperto in futuro]|[Contenuto Nascosto, potrebbe essere note del DM o scoperto in futuro]|
-|[Contenuto Nascosto, potrebbe essere note del DM o scoperto in futuro]|[Contenuto Nascosto, potrebbe essere note del DM o scoperto in futuro]|[Contenuto Nascosto, potrebbe essere note del DM o scoperto in futuro]|[Contenuto Nascosto, potrebbe essere note del DM o scoperto in futuro]|
+| Rango                         | Ruolo Principale                            | Poteri e Responsabilità                                 |
+| ----------------------------- | ------------------------------------------- | ------------------------------------------------------- |
+| [Contenuto Nascosto, potrebbe essere note del DM o scoperto in futuro] | [Contenuto Nascosto, potrebbe essere note del DM o scoperto in futuro]               | [Contenuto Nascosto, potrebbe essere note del DM o scoperto in futuro]        |
+| [Contenuto Nascosto, potrebbe essere note del DM o scoperto in futuro] | [Contenuto Nascosto, potrebbe essere note del DM o scoperto in futuro]          | [Contenuto Nascosto, potrebbe essere note del DM o scoperto in futuro]    |
+| [Contenuto Nascosto, potrebbe essere note del DM o scoperto in futuro]  | [Contenuto Nascosto, potrebbe essere note del DM o scoperto in futuro]                | [Contenuto Nascosto, potrebbe essere note del DM o scoperto in futuro] |
+| [Contenuto Nascosto, potrebbe essere note del DM o scoperto in futuro] | [Contenuto Nascosto, potrebbe essere note del DM o scoperto in futuro] | [Contenuto Nascosto, potrebbe essere note del DM o scoperto in futuro]    |
+| Denti di Vecna                | Maghi e Incantatori                         | Utilizzatori di magia necrotica e arcana                |
+| Ricordi di Vecna              | Sacerdoti e Maghi Minori                    | Maghi e iniziati del culto                              |
+| [Contenuto Nascosto, potrebbe essere note del DM o scoperto in futuro]     | [Contenuto Nascosto, potrebbe essere note del DM o scoperto in futuro]             | [Contenuto Nascosto, potrebbe essere note del DM o scoperto in futuro] |
+| [Contenuto Nascosto, potrebbe essere note del DM o scoperto in futuro]   | [Contenuto Nascosto, potrebbe essere note del DM o scoperto in futuro]     | [Contenuto Nascosto, potrebbe essere note del DM o scoperto in futuro]       |
 
 > [!info]- Simbolismo Anatomico
 > Ogni rango rappresenta una parte del corpo di Vecna, enfatizzando come il culto sia un unico organismo vivente (o non-morto) che serve la volontà del Dio-Lich.

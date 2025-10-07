@@ -8,7 +8,7 @@ Uno studioso dei piani esterni.
 ---
 
 > [!summary] Dettagli
-> 
+> [Contenuto Nascosto, potrebbe essere note del DM o scoperto in futuro]
 
 
 [Contenuto Nascosto, potrebbe essere note del DM o scoperto in futuro]

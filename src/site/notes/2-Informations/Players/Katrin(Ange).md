@@ -54,7 +54,6 @@
 
 > [!NOTE]- Backstory
 > Katrin
-
 > Allora partiamo dall'inizio chi è Katrin?
 > Katrin è una piccola ragazzina, si direbbe sui 10 anni, cosi pensavano i suoi vicini e tutta la comunità di Silverymoon  
 > dove lei e la sua “famiglia” abitava in un quartiere di periferia con i genitori entrambi umani questa volta certo Katrin è abituata a cambiare famiglia spesso, ma vediamo come era quando era piccola lei è stata cresciuta in una strana famiglia nel senso c'era una madre orco molto smilza per quanto un orco possa essere smilzo di nome Tiffani, tutti in quella casa la chiamavano mamma anche se nessuno era veramente suo parente di sangue, e poi c'era il papà ecco lui si era un energumeno di 2 metri per 1,5 e no! Non era tutta ciccia anzi ogni volta che addestrava i nuovi bambini (le reclute) rischiava sempre di rompere qualche osso, per fortuna la mamma li curava con tutto l'amore possibile, ad occhio esterno erano una famiglia perfetta con una mamma amorevole e un padre protettivo, beh diciamo che quando calava la notte se eri sulla lista per te l'alba non sarebbe mai arrivata,
