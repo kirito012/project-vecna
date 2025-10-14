@@ -97,6 +97,7 @@ Il potere è condiviso tra i leader dei cinque rami, che formano il Concilio sen
 
 - [[2-Informations/Players/Katrin(Ange)\|Katrin(Ange)]]
 - [[2-Informations/Players/Kenshin di Atami(Pie)\|Kenshin di Atami(Pie)]]
+- [[2-Informations/NPCS/Agenzia/Rorik Brassknee\|Rorik Brassknee]]
 
 ---
 

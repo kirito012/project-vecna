@@ -7,15 +7,23 @@
 Lista degli aggiornamenti fatti al sito dopo ogni sessione
 
 ### Ultimo Aggiornamento
-- > [!tldr] Update Post Sessione 2 - 07/10/2025
+> [!tldr] Update Post Sessione 3 - 14/10/2025
+> - Aggiunto il riassunto della sessione [[1-Sessions/NeverwinterSaga/Neverwinter 3\|Neverwinter 3]]
+> - Aggiunti vari NPC tra cui, [[2-Informations/NPCS/Catacombe di Neverdeath/Raina Kairls\|Raina Kairls]] e [[2-Informations/NPCS/Agenzia/Rorik Brassknee\|Rorik Brassknee]]
+> - Aggiunte le [[2-Informations/Handouts/Note di Jerot\|Note di Jerot]]
+> - Aggiunti alcuni mob e aggiornati i dati
+
+### Vecchi Aggiornamenti
+> [!tldr] Update Post Sessione 2 - 07/10/2025
 > - Aggiunto il riassunto della sessione [[1-Sessions/NeverwinterSaga/Neverwinter 2\|Neverwinter 2]]
 > - Aggiornato [[2-Informations/NPCS/Neverwinter/Nobili Rapiti/Gilbert Noblin\|Gilbert Noblin]]
 > - 1 nuovi Handout
 > - Aggiunto il nostro amato [[2-Informations/Players/Thock(Luke)\|Thock(Luke)]]
 > - Un nuovo oggetto magico scoperto: [[2-Informations/Items/Item minori/Orologio di Mechanus\|Orologio di Mechanus]]
 
-### Vecchi Aggiornamenti
-- > [!tldr] Update Post Sessione 1 - 30/09/2025
+---
+
+> [!tldr] Update Post Sessione 1 - 30/09/2025
 > - Aggiunto il riassunto della sessione [[1-Sessions/NeverwinterSaga/Neverwinter 1\|Neverwinter 1]]
 > - Aggiunti i vari nobili rapiti
 > - 2 nuovi Handout
@@ -25,7 +33,7 @@ Lista degli aggiornamenti fatti al sito dopo ogni sessione
 
 ---
 
-- > [!tldr] Update pre-campagna - 09/09/2025
+> [!tldr] Update pre-campagna - 09/09/2025
 >  - Aggiunto il personaggio [[2-Informations/Players/Sedda(Andrea)\|Sedda(Andrea)]] (aggiornare backstory)
 >  - Aggiornate le informazioni di tutti i giocatori
 >  - Aggiunta [[2-Informations/Organization/L'agenzia\|L'agenzia]]

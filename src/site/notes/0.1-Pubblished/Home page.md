@@ -13,12 +13,12 @@ Utilizzerò questo sito per postare varie informazioni scoperte dai giocatori e 
 
 ### News
 Ultimo update delle note altre informazioni qui [[0.1-Pubblished/Aggiornamenti\|Aggiornamenti]]
-- > [!tldr] Update Post Sessione 2 - 07/10/2025
-> - Aggiunto il riassunto della sessione [[1-Sessions/NeverwinterSaga/Neverwinter 2\|Neverwinter 2]]
-> - Aggiornato [[2-Informations/NPCS/Neverwinter/Nobili Rapiti/Gilbert Noblin\|Gilbert Noblin]]
-> - 1 nuovi Handout
-> - Aggiunto il nostro amato [[2-Informations/Players/Thock(Luke)\|Thock(Luke)]]
-> - Un nuovo oggetto magico scoperto: [[2-Informations/Items/Item minori/Orologio di Mechanus\|Orologio di Mechanus]]
+
+> [!tldr] Update Post Sessione 3 - 14/10/2025
+> - Aggiunto il riassunto della sessione [[1-Sessions/NeverwinterSaga/Neverwinter 3\|Neverwinter 3]]
+> - Aggiunti vari NPC tra cui, [[2-Informations/NPCS/Catacombe di Neverdeath/Raina Kairls\|Raina Kairls]] e [[2-Informations/NPCS/Agenzia/Rorik Brassknee\|Rorik Brassknee]]
+> - Aggiunte le [[2-Informations/Handouts/Note di Jerot\|Note di Jerot]]
+> - Aggiunti alcuni mob e aggiornati i dati
 
 ### Lista dei giocatori
 | name                      | hp  | current-hp | ac  | level | race     | class             |
@@ -32,12 +32,13 @@ Ultimo update delle note altre informazioni qui [[0.1-Pubblished/Aggiornamenti\|
 
 
 ### Sessioni recenti
-|name|Saga|Data IG|Data IRL|
-|---|---|---|---|
-|[[1-Sessions/EldritchEyeSaga/Oneshot Eldritch Eye 1\|Oneshot Eldritch Eye 1]]|Eldritch eye|17/01/1489|07/05/2025|
-|[[1-Sessions/EldritchEyeSaga/Oneshot Eldritch Eye 2\|Oneshot Eldritch Eye 2]]|Eldritch eye|17/01/1489|13/05/2025|
-|[[1-Sessions/NeverwinterSaga/Neverwinter 1\|Neverwinter 1]]|Neverwinter|13/04/1495|11/09/2025|
-|[[1-Sessions/NeverwinterSaga/Neverwinter 2\|Neverwinter 2]]|Neverwinter|14/04/1495|07/10/2025|
+| name                       | Saga         | Data IG    | Data IRL   |
+| -------------------------- | ------------ | ---------- | ---------- |
+| [[1-Sessions/EldritchEyeSaga/Oneshot Eldritch Eye 1\|Oneshot Eldritch Eye 1]] | Eldritch eye | 17/01/1489 | 07/05/2025 |
+| [[1-Sessions/EldritchEyeSaga/Oneshot Eldritch Eye 2\|Oneshot Eldritch Eye 2]] | Eldritch eye | 17/01/1489 | 13/05/2025 |
+| [[1-Sessions/NeverwinterSaga/Neverwinter 1\|Neverwinter 1]]          | Neverwinter  | 13/04/1495 | 11/09/2025 |
+| [[1-Sessions/NeverwinterSaga/Neverwinter 2\|Neverwinter 2]]          | Neverwinter  | 14/04/1495 | 07/10/2025 |
+| [[1-Sessions/NeverwinterSaga/Neverwinter 3\|Neverwinter 3]]          | Neverwiter   | 14/04/1495 | 13/10/2025 |
 
 ![[2 - Sessions Database.base#Sessions Home]]
 
