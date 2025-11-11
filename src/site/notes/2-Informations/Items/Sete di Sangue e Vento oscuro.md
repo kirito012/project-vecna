@@ -10,11 +10,11 @@ _Oggetto magico, raro (richiede sintonia da un Guerriero o Paladino)_
 
 ![SetediSangueEVentoOscuro.png](/img/user/Assets/SetediSangueEVentoOscuro.png)
 
-Due lame intrecciate dal fato, due facce della stessa verità. **Sete di Sangue**, forgiata da [[2-Informations/NPCS/Hallix Forge/Zephralis V'Khor\|Zephralis V'Khor]] cultista di Vecna, e **Vento Oscuro**, antica reliquia dei paladini delle ombre. Una cerca la verità con violenza, l'altra la protegge con saggezza. Insieme rappresentano l'equilibrio perfetto tra rivelazione e protezione, tra fame e serenità.
+Due lame intrecciate dal fato, due facce della stessa verità. **Sete di Sangue**, forgiata da [[2-Informations/NPCS/Hallix Forge/Zephralis V'Khor\|Zephralis V'Khor]] cultista di Vecna, e **Vento Oscuro**, un altra katana più corta dal passato misterioso
 
 **Sete di Sangue** è incisa con rune che riflettono i sentimenti dell'utilizzatore, essa si nutre di conoscenza con una fame senza fine, la sua lama si affila ogni volta che scopre una verità.
 
-**Vento Oscuro** è l'antica controparte spirituale, forgiata da maestri paladini per **spezzare i legami tra anima e potere oscuro**. Incisa con rune protettive, assorbe la luce emanando un'aura fredda e serena. Brilla più intensamente quanto maggiore è la corruzione affrontata.
+**Vento Oscuro** è l'antica controparte protettrice e spirituale, non si sanno molte altre informazioni per adesso.
 
 ---
 
