@@ -223,7 +223,7 @@ Queste parole **svegliano [[2-Informations/Players/Kenshin di Atami(Pie)\|Kenshi
 
 [[2-Informations/Players/Kenshin di Atami(Pie)\|Kenshin di Atami(Pie)]], ora **confuso e spaventato**, tira fuori le sue **lame**. In un momento di caos:
 
-- La sua **[[2-Informations/Items/Sete di Sangue\|Sete di Sangue]]** per sbaglio **colpisce il muro** alla sua destra
+- La sua **[[2-Informations/Items/Sete di Sangue e Vento oscuro\|Sete di Sangue e Vento oscuro]]** per sbaglio **colpisce il muro** alla sua destra
 - Con **Vento Oscuro** colpisce il **Nothic a una spalla**  
 - Attiva **Punizione Divina**, facendo **esplodere completamente una spalla** della creatura
 

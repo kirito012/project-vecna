@@ -41,8 +41,11 @@ Direttore operativo dell'[[2-Informations/Organization/L'agenzia\|L'agenzia]], n
 > - [[2-Informations/Players/Kenshin di Atami(Pie)\|Kenshin di Atami(Pie)]] lo considera una figura-mito, temuto e rispettato
 > - **Difetto segreto:** Soffre di claustrofobia, ma non lo ammetterà mai
 
-> [!note] Stato Attuale  
+> [!note] Stato durante [[1-Sessions/NeverwinterSaga/Neverwinter 3\|Neverwinter 3]]  
 > Prigioniero nella **gabbia sospesa** nella sala finale delle catacombe di [[2-Informations/Locations/Neverwinter - Cimitero di Neverdeath\|Neverwinter - Cimitero di Neverdeath]], insieme a [[2-Informations/NPCS/Neverwinter/Nobili Rapiti/Eldon Vegliachiavi\|Eldon Vegliachiavi]]. La sua liberazione è uno degli obiettivi principali degli avventurieri.
+
+> [!note] Stato durante [[1-Sessions/NeverwinterSaga/Neverwinter 4\|Neverwinter 4]]  
+> Prigioniero nella **gabbia sospesa** nella sala finale delle catacombe di [[2-Informations/Locations/Neverwinter - Cimitero di Neverdeath\|Neverwinter - Cimitero di Neverdeath]], vengono estratti i suoi segreti e da li non si sa nulla.
 
 > [!note] Ultime Parole Prima della Cattura
 > _"Fammi vedere se questo è davvero il vostro meglio…"_

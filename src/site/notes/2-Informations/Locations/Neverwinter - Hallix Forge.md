@@ -11,7 +11,7 @@
 - [[2-Informations/NPCS/Hallix Forge/Zephralis V'Khor\|Zephralis V'Khor]]
 
 ### Eventi
-Appena entrati i personaggi hanno una piccola conversazione con i 3 dove [[2-Informations/NPCS/Hallix Forge/Zephralis V'Khor\|Zephralis V'Khor]] fa un monologo vedendo [[2-Informations/Items/Sete di Sangue\|Sete di Sangue]].
+Appena entrati i personaggi hanno una piccola conversazione con i 3 dove [[2-Informations/NPCS/Hallix Forge/Zephralis V'Khor\|Zephralis V'Khor]] fa un monologo vedendo [[2-Informations/Items/Sete di Sangue e Vento oscuro\|Sete di Sangue e Vento oscuro]].
 
 [Contenuto Nascosto, potrebbe essere note del DM o scoperto in futuro]
 

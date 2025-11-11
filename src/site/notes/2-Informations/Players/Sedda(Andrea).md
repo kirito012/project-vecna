@@ -33,7 +33,27 @@
 > Sedda Ceppomarcio, uno gnomo di 293 anni, attualmente impiegato di [[2-Informations/NPCS/Neverwinter/Lord Neverember\|Lord Neverember]] come spia e sorta di guardia del cimitero, un potente druido del circolo delle spore che porta con se un cimelio mai visto nella storia dei druidi, la [[2-Informations/Items/Mycohand\|Mycohand]] forgiata dalla sua stessa energia.
 > Questo Gnomo è uno studioso di nome e di fatto e nel suo percorso è venuto a scoprire molti segreti, chissà cos'altro riuscira a rivelare.
 
+
 > [!NOTE]- Backstory
-> Nasce in un piccolo villaggio di gnomi nel Bosco dei denti aguzzi, dotato di una naturale propensione alla natura, lascia presto il villaggio per conoscere il mondo.
-> Entra in contatto all'età di 53 ani con un circolo druidico delle spore, del quale apprende i segreti e i trucchi.
+> **Inizio: Il Villaggio dei Denti Aguzzi**
+> Sedda nasce in un piccolo villaggio di gnomi nel **Bosco dei Denti Aguzzi**, una regione selvaggia e inospitale. Da giovane mostra una naturale propensione per la natura e gli ecosistemi boschivi.
+> Lascia presto il villaggio, spinto dalla curiosità di esplorare il mondo oltre i confini della foresta natale.
+> **Atto I: L'Apprendistato (Età 53)**
+> A 53 anni, entra in contatto con il **Circolo delle Spore**, un ordine druidico che studia il potere dei funghi e della decomposizione come forza vitale.
+> Apprende i segreti e i trucchi del circolo, diventando un maestro nella magia fungina.
+> **Atto II: La Missione (Tempo Indeterminato)**
+> Quando dimostra di essere pronto, il Circolo lo invia come **"guardiano"** nelle foreste nei pressi di **Neverwinter**, una missione di protezione e monitoraggio.
+> **Atto III: La Scoperta (Circa 1 Anno Prima della Sessione 1)**
+> Mentre pattugli le foreste di Neverwinter, nota un aumento anomalo di **cadaveri di animali sparsi nella foresta**. Non sono morti naturali—mostrano segni di esperimenti e sofferenza.
+> Indaga e scopre un **laboratorio sotterraneo gestito da cultisti di Vecna** che sperimentano su animali.
+> **Atto IV: Il Rinforzo**
+> Avvisa il **Circolo delle Spore**, che lo raggiunge inviando un **bardo tiefling che aveva precedentemente perso un braccio in uno scontro contro gli stessi cultisti**.
+> Insieme sconfiggono il laboratorio e fermate gli esperimenti.
+> **Atto V: L'Infiltrazione (Presente)**
+> Dopo ciò, Sedda si reca a **Neverwinter** e indaga ulteriormente sulla minaccia.
+> **Lord Neverember** lo scopre e lo recluta come **becchino sotto copertura** — ufficialmente impiega Sedda come guardiano del cimitero, ma in realtà lo usa come spia per monitorare attività sospette nel sottosuolo della città.
+> **Atto VI: L'Incontro con il Party (Sessione 1)**
+> Quando il resto del party viene ingaggiato da Lord Neverember, Sedda li contatta.
+> Scopre che **Katrin e Kenshin hanno già combattuto contro i cultisti di Vecna anni a dietro** (lavoravano per Lord Neverember all'epoca).
+> Sedda vede in loro alleati potenziali e decide di collaborare per scoprire cosa sta accadendo realmente.
 > 

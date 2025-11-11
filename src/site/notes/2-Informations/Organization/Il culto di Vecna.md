@@ -101,7 +101,7 @@ Il culto ha orchestrato il rapimento strategico di quattro nobili di spicco:
 - **Valthar** - Guardia d'élite, ucciso durante la battaglia nella forgia
 
 ### **Membri particolari**
-- **[[2-Informations/NPCS/Hallix Forge/Zephralis V'Khor\|Zephralis V'Khor]]** - Fabbro corrotto, creatore della lama [[2-Informations/Items/Sete di Sangue\|Sete di Sangue]] e di coltelli rituali
+- **[[2-Informations/NPCS/Hallix Forge/Zephralis V'Khor\|Zephralis V'Khor]]** - Fabbro corrotto, creatore della lama [[2-Informations/Items/Sete di Sangue e Vento oscuro\|Sete di Sangue e Vento oscuro]] e di coltelli rituali
 
 ### **Membri Comuni**
 - Diversi **[[3-Mechanics/CLI/bestiary/undead/wight\|wight]]** controllati magicamente come guardiani
@@ -112,7 +112,7 @@ Il culto ha orchestrato il rapimento strategico di quattro nobili di spicco:
 ## Artefatti e Creazioni
 
 ### **Armi Maledette**
-- **[[2-Informations/Items/Sete di Sangue\|Sete di Sangue]]** - Spada creata da [[2-Informations/NPCS/Hallix Forge/Zephralis V'Khor\|Zephralis V'Khor]], che torna al creatore quando completa il suo scopo
+- **[[2-Informations/Items/Sete di Sangue e Vento oscuro\|Sete di Sangue e Vento oscuro]]** - Spada creata da [[2-Informations/NPCS/Hallix Forge/Zephralis V'Khor\|Zephralis V'Khor]], che torna al creatore quando completa il suo scopo
 - **Coltelli Rituali** - Lame con rune necromatiche che si dissolvono dopo l'uso, utilizzate per suicidi di emergenza
 
 

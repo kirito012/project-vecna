@@ -168,7 +168,7 @@ All'interno del tempo congelato, solo la voce cupa e distorta del fabbro si fa s
 > _"Interessante... dopo tutti questi anni, lei torna da me."_
 > 
 > [Si avvicina studiando la spada di Kenshin]
-> _"[[2-Informations/Items/Sete di Sangue\|Sete di Sangue]]... una delle mie creazioni più... personali. Vedo che ha bevuto bene in questi anni. Posso sentire l'eco delle anime che ha reclamato, il sapore del ferro nel sangue che ha versato."_
+> _"[[2-Informations/Items/Sete di Sangue e Vento oscuro\|Sete di Sangue e Vento oscuro]]... una delle mie creazioni più... personali. Vedo che ha bevuto bene in questi anni. Posso sentire l'eco delle anime che ha reclamato, il sapore del ferro nel sangue che ha versato."_
 > 
 > [Il suo sguardo si sposta minaccioso sui personaggi]
 > _"Io sono [[2-Informations/NPCS/Hallix Forge/Zephralis V'Khor\|Zephralis V'Khor]]"_
@@ -178,7 +178,7 @@ All'interno del tempo congelato, solo la voce cupa e distorta del fabbro si fa s
 > _"Forse siete qui perché qualcuno vi ha sussurrato che io sia responsabile di quei 'piccoli incidenti' in città? Quei coltelli che spariscono, quelle morti così... artistiche?"_
 > 
 > [La sua voce si indurisce come acciaio temprato]
-> _"Sciocchi. Io non 'rubo' le mie creazioni. Esse TORNANO a me quando hanno completato il loro scopo. E [[2-Informations/Items/Sete di Sangue\|Sete di Sangue]]... oh, cara [[2-Informations/Items/Sete di Sangue\|Sete di Sangue]]... il tuo lavoro non è ancora finito."_
+> _"Sciocchi. Io non 'rubo' le mie creazioni. Esse TORNANO a me quando hanno completato il loro scopo. E [[2-Informations/Items/Sete di Sangue e Vento oscuro\|Sete di Sangue e Vento oscuro]]... oh, cara [[2-Informations/Items/Sete di Sangue e Vento oscuro\|Sete di Sangue e Vento oscuro]]... il tuo lavoro non è ancora finito."_
 > 
 > [Solleva minaccioso il suo martello da forgia]
 > _"Ma prima, devo riprendermi ciò che è MIO."_
@@ -206,14 +206,14 @@ Ma [[2-Informations/Players/Kenshin di Atami(Pie)\|Kenshin di Atami(Pie)]] viene
 Mentre [[2-Informations/NPCS/Hallix Forge/Zephralis V'Khor\|Zephralis V'Khor]] grida possessivamente:
 
 > [!cite] [[2-Informations/NPCS/Hallix Forge/Zephralis V'Khor\|Zephralis V'Khor]]
-> _"[[2-Informations/Items/Sete di Sangue\|Sete di Sangue]] è MIA!"_
+> _"[[2-Informations/Items/Sete di Sangue e Vento oscuro\|Sete di Sangue e Vento oscuro]] è MIA!"_
 
 [[2-Informations/Players/Kenshin di Atami(Pie)\|Kenshin di Atami(Pie)]] risponde con determinazione incrollabile:
 
 > [!cite] [[2-Informations/Players/Kenshin di Atami(Pie)\|Kenshin di Atami(Pie)]]
 > _"No, non lo è più!"_
 
-In quel momento cruciale, la **[[2-Informations/Items/Sete di Sangue\|Sete di Sangue]]** si illumina di una luce accecante, **potenziata dalla menzogna di [[2-Informations/NPCS/Hallix Forge/Zephralis V'Khor\|Zephralis V'Khor]]**. Con tutta la sua forza, [[2-Informations/Players/Kenshin di Atami(Pie)\|Kenshin di Atami(Pie)]] colpisce la barriera magica che subisce danni devastanti.
+In quel momento cruciale, la **[[2-Informations/Items/Sete di Sangue e Vento oscuro\|Sete di Sangue e Vento oscuro]]** si illumina di una luce accecante, **potenziata dalla menzogna di [[2-Informations/NPCS/Hallix Forge/Zephralis V'Khor\|Zephralis V'Khor]]**. Con tutta la sua forza, [[2-Informations/Players/Kenshin di Atami(Pie)\|Kenshin di Atami(Pie)]] colpisce la barriera magica che subisce danni devastanti.
 
 > [!success] Momento Epico
 > Si forma una crepa lampeggiante nel punto esatto dove la lama ha colpito. [[2-Informations/NPCS/Hallix Forge/Zephralis V'Khor\|Zephralis V'Khor]] indietreggia terrorizzato.

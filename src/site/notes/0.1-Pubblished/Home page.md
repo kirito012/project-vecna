@@ -14,11 +14,11 @@ Utilizzerò questo sito per postare varie informazioni scoperte dai giocatori e 
 ### News
 Ultimo update delle note altre informazioni qui [[0.1-Pubblished/Aggiornamenti\|Aggiornamenti]]
 
-> [!tldr] Update Post Sessione 3 - 14/10/2025
-> - Aggiunto il riassunto della sessione [[1-Sessions/NeverwinterSaga/Neverwinter 3\|Neverwinter 3]]
-> - Aggiunti vari NPC tra cui, [[2-Informations/NPCS/Catacombe di Neverdeath/Raina Kairls\|Raina Kairls]] e [[2-Informations/NPCS/Agenzia/Rorik Brassknee\|Rorik Brassknee]]
-> - Aggiunte le [[2-Informations/Handouts/Note di Jerot\|Note di Jerot]]
-> - Aggiunti alcuni mob e aggiornati i dati
+> [!tldr] Update Post Sessione 4 - 11/11/2025
+> - Aggiunto il riassunto della sessione [[1-Sessions/NeverwinterSaga/Neverwinter 4\|Neverwinter 4]]
+> - Aggiunti vari NPC tra cui, [[2-Informations/NPCS/Evernight/Lyris Morteanche(Mercante)\|Lyris Morteanche(Mercante)]] e [[2-Informations/NPCS/Evernight/Varruk Ossombra(Mercante)\|Varruk Ossombra(Mercante)]]
+> - Aggiunte nuove informazioni su [[2-Informations/Items/Sete di Sangue e Vento oscuro\|Sete di Sangue e Vento oscuro]]
+> - > - Aggiunti [[2-Informations/Locations/Evernight\|Evernight]] e il [[2-Informations/Shops/Mercato delle salme\|Mercato delle salme]]
 
 ### Lista dei giocatori
 | name                      | hp  | current-hp | ac  | level | race     | class             |
@@ -38,7 +38,8 @@ Ultimo update delle note altre informazioni qui [[0.1-Pubblished/Aggiornamenti\|
 | [[1-Sessions/EldritchEyeSaga/Oneshot Eldritch Eye 2\|Oneshot Eldritch Eye 2]] | Eldritch eye | 17/01/1489 | 13/05/2025 |
 | [[1-Sessions/NeverwinterSaga/Neverwinter 1\|Neverwinter 1]]          | Neverwinter  | 13/04/1495 | 11/09/2025 |
 | [[1-Sessions/NeverwinterSaga/Neverwinter 2\|Neverwinter 2]]          | Neverwinter  | 14/04/1495 | 07/10/2025 |
-| [[1-Sessions/NeverwinterSaga/Neverwinter 3\|Neverwinter 3]]          | Neverwiter   | 14/04/1495 | 13/10/2025 |
+| [[1-Sessions/NeverwinterSaga/Neverwinter 3\|Neverwinter 3]]          | Neverwinter  | 14/04/1495 | 13/10/2025 |
+| [[1-Sessions/NeverwinterSaga/Neverwinter 4\|Neverwinter 4]]          | Neverwinter  | 14/04/1495 | 10/11/2025 |
 
 ![[2 - Sessions Database.base#Sessions Home]]
 
